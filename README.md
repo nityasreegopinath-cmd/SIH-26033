@@ -26,18 +26,47 @@ Benefits:
 • Reduced supply chain inefficiencies.
 
 ## Proposed Solution
-```
+
 Solution Name: Khet2Cart – Fresh from Farms, Fair for Everyone
 
-Khet2Cart is a digital platform designed to connect farmers directly with consumers, retailers, hotels, supermarkets and other bulk buyers.
+• Khet2Cart is a digital platform designed to connect farmers directly with consumers, retailers, hotels, supermarkets and other bulk buyers.
 
-Currently, agricultural products pass through several middlemen before reaching consumers. Each intermediary adds their own profit, which reduces the farmer's earnings and increases the final price.
+• Currently, agricultural products pass through several middlemen before reaching consumers. Each intermediary adds their own profit, which reduces the farmer's earnings and increases the final price.
 
-Our solution aims to reduce unnecessary intermediaries by creating a common digital platform where farmers can list their products, mention their expected prices and receive orders directly from buyers.
-```
-The platform will also provide delivery coordination, price comparisons and AI-based demand predictions to make the entire process easier and more efficient.
-2. How it addresses the problem
-3. Innovation and uniqueness of the solution
+• My solution aims to reduce unnecessary intermediaries by creating a common digital platform where farmers can list their products, mention their expected prices and receive orders directly from buyers.
+
+• The platform will also provide delivery coordination, price comparisons and AI-based demand predictions to make the entire process easier and more efficient.
+
+• Instead of farmers depending completely on local intermediaries to sell their produce, they get another way to reach buyers and negotiate prices.
+
+Khet2Cart will work as a bridge between farmers and buyers.
+
+Its main features include:
+- Direct Farmer-to-Buyer Connection
+- Fair Price System
+- Bulk Ordering (Hotels, supermarkets, restaurants and retailers can place large orders directly)
+- Smart Logistics
+- AI Demand Prediction
+- Live Order Tracking
+- Regional Language Support (Farmers can use the app in their preferred language)
+
+Existing problem:	                      Our solution:
+Too many middlemen	         ->         Direct farmer-buyer connection
+Low earnings for farmers	   ->         Better price negotiation
+High consumer prices	       ->         Reduced unnecessary commissions
+Difficulty finding buyers	   ->         Online product listings
+Transportation problems	     ->         Logistics coordination
+Uncertain market demand	     ->         AI-based demand forecasting
+
+Khet2Cart is not just an online marketplace. It focuses on making agricultural selling more organized and accessible.
+
+Its unique features include:
+
+1. Group Selling
+2. Smart Buyer Matching
+3. Demand Alert
+4. Shared Transportation
+5. Transparent Pricing
 
 ## Technical Approach
 Remove These Lines
