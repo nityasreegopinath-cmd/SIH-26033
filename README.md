@@ -27,7 +27,7 @@ Benefits:
 
 ## Proposed Solution
 
-Solution Name: Khet2Cart – Fresh from Farms, Fair for Everyone
+Solution Name: "Khet2Cart" – Fresh from Farms, Fair for Everyone
 
 • Khet2Cart is a digital platform designed to connect farmers directly with consumers, retailers, hotels, supermarkets and other bulk buyers.
 
@@ -69,21 +69,71 @@ Its unique features include:
 5. Transparent Pricing
 
 ## Technical Approach
-Remove These Lines
-1. Technologies to be used (e.g. programming languages, frameworks, hardware)
-2. Methodology and process for implementation <b>(Flow Charts/Images/ working prototype)</b>
+Technologies to be Used:
+• Frontend	-> HTML, CSS, JavaScript
+• Backend	-> Python, Django
+• Database -> MySQL
+• AI and Machine Learning ->	Python, Scikit-learn
+• Maps and Routes ->	Google Maps
+• UI Design ->	Figma
+• Mobile Application ->	Khet2Cart (Adding Farm to Cart)
+
+<img width="2296" height="4080" alt="IMG_20261122_132748 jpg" src="https://github.com/user-attachments/assets/1fa833c1-74a3-44d4-949a-7c4430c57467" />
+
 
 ## Feasibility and Viability
-Remove These Lines
-1. Analysis of the feasibility of the idea
-2. Potential challenges and risks
-3. Strategies for overcoming these challenges
+
+Feasibility:
+
+- Farmers can access the platform through smartphones.
+- The application can support regional languages.
+- Django and MySQL can manage users, products and orders.
+- AI features can initially be implemented using basic machine-learning models.
+
+Potential Challenges:
+
+- Some farmers may not be familiar with digital platforms.
+- Transportation may be difficult in remote villages.
+- Crop availability and prices may change frequently.
+- Maintaining product quality during transportation can be challenging.
+
+Solutions to These Challenges:
+
+- Provide a simple interface with regional language support.
+- Offer assistance through local farmer groups and FPOs.
+- Update product availability regularly.
+- Partner with local transport providers and use suitable packaging.
 
 ## Impact and Benefits
-Remove These Lines
-1. Potential impact on the target audience
-2. Benefits of the solution (social, economic, environmental, etc.)
+
+Economic Benefits
+
+- Farmers get better opportunities to earn fair prices.
+- Consumers can purchase products at more reasonable prices.
+- Small farmers get access to larger markets.
+- Unnecessary commission expenses can be reduced.
+
+Social Benefits
+
+- Encourages farmers to adopt digital technology.
+- Supports small-scale farmers and rural communities.
+- Creates better communication between farmers and buyers.
+
+Environmental Benefits
+
+- Shared transportation can reduce unnecessary trips.
+- Better demand prediction can help reduce food wastage.
+- Improved distribution can make agricultural transportation more efficient.
 
 ## Research and References
-Remove These Lines
-1. Details / Links of the reference and research work
+
+• National Agriculture Market (e-NAM) – Information about digital agricultural trading and connecting agricultural markets.
+
+
+• Small Farmers' Agribusiness Consortium (SFAC) – Information about Farmer Producer Organizations (FPOs).
+
+
+• AGMARKNET – Agricultural market prices and arrivals.
+
+
+• Food and Agriculture Organization (FAO) – Research on food supply chains and agricultural development.
