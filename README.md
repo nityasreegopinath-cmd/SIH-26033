@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Reference Number:
-## Name:
+# Date: 22.11.2026
+## Reference Number: 26012026
+## Name: G Nitya Sree
 
 ## Problem Title
 SIH 26033: Multiple intermediaries reduce farmers earnings and increase consumer prices.
@@ -26,8 +26,16 @@ Benefits:
 • Reduced supply chain inefficiencies.
 
 ## Proposed Solution
-Remove These Lines
-1. Detailed explanation of the proposed solution
+```
+Solution Name: Khet2Cart – Fresh from Farms, Fair for Everyone
+
+Khet2Cart is a digital platform designed to connect farmers directly with consumers, retailers, hotels, supermarkets and other bulk buyers.
+
+Currently, agricultural products pass through several middlemen before reaching consumers. Each intermediary adds their own profit, which reduces the farmer's earnings and increases the final price.
+
+Our solution aims to reduce unnecessary intermediaries by creating a common digital platform where farmers can list their products, mention their expected prices and receive orders directly from buyers.
+```
+The platform will also provide delivery coordination, price comparisons and AI-based demand predictions to make the entire process easier and more efficient.
 2. How it addresses the problem
 3. Innovation and uniqueness of the solution
 
