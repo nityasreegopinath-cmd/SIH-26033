@@ -71,7 +71,7 @@ Its unique features include:
 ## Technical Approach
 Technologies to be Used:
 ```
-• Frontend	-> HTML, CSS, JavaScript
+• Frontend -> HTML, CSS, JavaScript
 • Backend	-> Python, Django
 • Database -> MySQL
 • AI and Machine Learning ->	Python, Scikit-learn
