@@ -72,7 +72,7 @@ Its unique features include:
 Technologies to be Used:
 ```
 • Frontend -> HTML, CSS, JavaScript
-• Backend	-> Python, Django
+• Backend -> Python, Django
 • Database -> MySQL
 • AI and Machine Learning ->	Python, Scikit-learn
 • Maps and Routes ->	Google Maps
