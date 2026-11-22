@@ -52,9 +52,9 @@ Its main features include:
 ```
 Existing problem:	                     Our solution:
 Too many middlemen	     ->        Direct farmer-buyer connection
-Low earnings for farmers->      Better price negotiation
+Low earnings for farmers ->      Better price negotiation
 High consumer prices	     ->          Reduced unnecessary commissions
-Difficulty finding buyers->      Online product listings
+Difficulty finding buyers ->      Online product listings
 Transportation problems	     ->            Logistics coordination
 Uncertain market demand	     ->            AI-based demand forecasting
 ```
