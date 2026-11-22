@@ -51,9 +51,9 @@ Its main features include:
 - Regional Language Support (Farmers can use the app in their preferred language)
 ```
 Existing problem:	                     Our solution:
-Too many middlemen	         ->        Direct farmer-buyer connection
-Low earnings for farmers	   ->      Better price negotiation
-High consumer prices	       ->          Reduced unnecessary commissions
+Too many middlemen	       ->        Direct farmer-buyer connection
+Low earnings for farmers	 ->      Better price negotiation
+High consumer prices	     ->          Reduced unnecessary commissions
 Difficulty finding buyers	   ->      Online product listings
 Transportation problems	     ->            Logistics coordination
 Uncertain market demand	     ->            AI-based demand forecasting
