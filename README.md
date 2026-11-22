@@ -50,13 +50,13 @@ Its main features include:
 - Live Order Tracking
 - Regional Language Support (Farmers can use the app in their preferred language)
 ```
-Existing problem:	                      Our solution:
-Too many middlemen	         ->         Direct farmer-buyer connection
-Low earnings for farmers	   ->         Better price negotiation
-High consumer prices	       ->         Reduced unnecessary commissions
-Difficulty finding buyers	   ->         Online product listings
-Transportation problems	     ->         Logistics coordination
-Uncertain market demand	     ->         AI-based demand forecasting
+Existing problem:	                     Our solution:
+Too many middlemen	         ->       Direct farmer-buyer connection
+Low earnings for farmers	   ->       Better price negotiation
+High consumer prices	       ->       Reduced unnecessary commissions
+Difficulty finding buyers	   ->       Online product listings
+Transportation problems	     ->        Logistics coordination
+Uncertain market demand	     ->        AI-based demand forecasting
 ```
 Khet2Cart is not just an online marketplace. It focuses on making agricultural selling more organized and accessible.
 
