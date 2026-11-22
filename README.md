@@ -70,6 +70,7 @@ Its unique features include:
 
 ## Technical Approach
 Technologies to be Used:
+```
 • Frontend	-> HTML, CSS, JavaScript
 • Backend	-> Python, Django
 • Database -> MySQL
@@ -77,7 +78,7 @@ Technologies to be Used:
 • Maps and Routes ->	Google Maps
 • UI Design ->	Figma
 • Mobile Application ->	Khet2Cart (Adding Farm to Cart)
-
+```
 <img width="2296" height="4080" alt="IMG_20261122_132748 jpg" src="https://github.com/user-attachments/assets/1fa833c1-74a3-44d4-949a-7c4430c57467" />
 
 
