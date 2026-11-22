@@ -53,10 +53,10 @@ Its main features include:
 Existing problem:	                     Our solution:
 Too many middlemen	         ->        Direct farmer-buyer connection
 Low earnings for farmers	   ->      Better price negotiation
-High consumer prices	       ->        Reduced unnecessary commissions
+High consumer prices	       ->          Reduced unnecessary commissions
 Difficulty finding buyers	   ->      Online product listings
-Transportation problems	     ->         Logistics coordination
-Uncertain market demand	     ->         AI-based demand forecasting
+Transportation problems	     ->            Logistics coordination
+Uncertain market demand	     ->            AI-based demand forecasting
 ```
 Khet2Cart is not just an online marketplace. It focuses on making agricultural selling more organized and accessible.
 
